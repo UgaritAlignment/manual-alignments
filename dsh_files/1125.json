@@ -1,0 +1,197 @@
+{
+    "aligned-text": {
+        "language": [
+            {
+                "@lnum": "L1",
+                "@xml:lang": "grc"
+            },
+            {
+                "@lnum": "L2",
+                "@xml:lang": "lat"
+            }
+        ],
+        "sentence": {
+            "@n": "1",
+            "wds": [
+                {
+                    "@lnum": "L1",
+                    "w": [
+                        {
+                            "@n": "1-1",
+                            "@tp": "",
+                            "text": "taurum",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-2",
+                            "@tp": "",
+                            "text": "Cretensem",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-3",
+                            "@tp": "sen_1",
+                            "text": "Ἀκουσίλαος",
+                            "refs": {
+                                "@nrefs": "1-3"
+                            }
+                        },
+                        {
+                            "@n": "1-4",
+                            "@tp": "",
+                            "text": "εἶναι",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-5",
+                            "@tp": "sen_2",
+                            "text": "φησὶ",
+                            "refs": {
+                                "@nrefs": "1-4"
+                            }
+                        },
+                        {
+                            "@n": "1-6",
+                            "@tp": "",
+                            "text": "τὸν",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-7",
+                            "@tp": "sen_3",
+                            "text": "διαπορθμεύσαντα",
+                            "refs": {
+                                "@nrefs": "1-10"
+                            }
+                        },
+                        {
+                            "@n": "1-8",
+                            "@tp": "sen_4",
+                            "text": "Εὐρώπην",
+                            "refs": {
+                                "@nrefs": "1-5"
+                            }
+                        },
+                        {
+                            "@n": "1-9",
+                            "@tp": "sen_5",
+                            "text": "Διί",
+                            "refs": {
+                                "@nrefs": "1-6"
+                            }
+                        },
+                        {
+                            "@n": "1-10",
+                            "@tp": "",
+                            "text": ".",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@lnum": "L2",
+                    "w": [
+                        {
+                            "@n": "1-1",
+                            "@tp": "",
+                            "text": "Taurum",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-2",
+                            "@tp": "",
+                            "text": "Cretensem",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-3",
+                            "@tp": "sen_1",
+                            "text": "Acusilaus",
+                            "refs": {
+                                "@nrefs": "1-3"
+                            }
+                        },
+                        {
+                            "@n": "1-4",
+                            "@tp": "sen_2",
+                            "text": "ait",
+                            "refs": {
+                                "@nrefs": "1-5"
+                            }
+                        },
+                        {
+                            "@n": "1-5",
+                            "@tp": "sen_4",
+                            "text": "Europam",
+                            "refs": {
+                                "@nrefs": "1-8"
+                            }
+                        },
+                        {
+                            "@n": "1-6",
+                            "@tp": "sen_5",
+                            "text": "Jovi",
+                            "refs": {
+                                "@nrefs": "1-9"
+                            }
+                        },
+                        {
+                            "@n": "1-7",
+                            "@tp": "",
+                            "text": "per",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-8",
+                            "@tp": "",
+                            "text": null,
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-9",
+                            "@tp": "",
+                            "text": "mare",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-10",
+                            "@tp": "sen_3",
+                            "text": "portasse",
+                            "refs": {
+                                "@nrefs": "1-7"
+                            }
+                        },
+                        {
+                            "@n": "1-11",
+                            "@tp": "",
+                            "text": ".",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

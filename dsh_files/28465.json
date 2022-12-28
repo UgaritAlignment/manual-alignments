@@ -1,0 +1,93 @@
+{
+    "aligned-text": {
+        "language": [
+            {
+                "@lnum": "L1",
+                "@xml:lang": "ENG"
+            },
+            {
+                "@lnum": "L2",
+                "@xml:lang": "DEU"
+            }
+        ],
+        "sentence": {
+            "@n": "1",
+            "wds": [
+                {
+                    "@lnum": "L1",
+                    "w": [
+                        {
+                            "@n": "1-1",
+                            "@tp": "sen_0",
+                            "text": "I",
+                            "refs": {
+                                "@nrefs": "2-1"
+                            }
+                        },
+                        {
+                            "@n": "1-2",
+                            "@tp": "",
+                            "text": "am",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-3",
+                            "@tp": "sen_2",
+                            "text": "doing",
+                            "refs": {
+                                "@nrefs": "2-2"
+                            }
+                        },
+                        {
+                            "@n": "1-4",
+                            "@tp": "sen_1",
+                            "text": "fine",
+                            "refs": {
+                                "@nrefs": "2-4"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@lnum": "L2",
+                    "w": [
+                        {
+                            "@n": "2-1",
+                            "@tp": "sen_0",
+                            "text": "Mir",
+                            "refs": {
+                                "@nrefs": "1-1"
+                            }
+                        },
+                        {
+                            "@n": "2-2",
+                            "@tp": "sen_2",
+                            "text": "geht",
+                            "refs": {
+                                "@nrefs": "1-3"
+                            }
+                        },
+                        {
+                            "@n": "2-3",
+                            "@tp": "",
+                            "text": "es",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-4",
+                            "@tp": "sen_1",
+                            "text": "gut",
+                            "refs": {
+                                "@nrefs": "1-4"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

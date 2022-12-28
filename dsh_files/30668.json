@@ -1,0 +1,2005 @@
+{
+    "aligned-text": {
+        "language": [
+            {
+                "@lnum": "L1",
+                "@xml:lang": "LAT"
+            },
+            {
+                "@lnum": "L2",
+                "@xml:lang": "ENG"
+            }
+        ],
+        "sentence": {
+            "@n": "1",
+            "wds": [
+                {
+                    "@lnum": "L1",
+                    "w": [
+                        {
+                            "@n": "1-1",
+                            "@tp": "sen_0",
+                            "text": "furor",
+                            "refs": {
+                                "@nrefs": "2-3"
+                            }
+                        },
+                        {
+                            "@n": "1-2",
+                            "@tp": "sen_1",
+                            "text": "est",
+                            "refs": {
+                                "@nrefs": "2-1 2-2"
+                            }
+                        },
+                        {
+                            "@n": "1-3",
+                            "@tp": "",
+                            "text": "mensuram",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-4",
+                            "@tp": "",
+                            "text": "eius",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-5",
+                            "@tp": "sen_6",
+                            "text": "animo",
+                            "refs": {
+                                "@nrefs": "2-6 2-7"
+                            }
+                        },
+                        {
+                            "@n": "1-6",
+                            "@tp": "sen_5",
+                            "text": "quosdam",
+                            "refs": {
+                                "@nrefs": "2-10"
+                            }
+                        },
+                        {
+                            "@n": "1-7",
+                            "@tp": "sen_2",
+                            "text": "agitasse",
+                            "refs": {
+                                "@nrefs": "2-4 2-5"
+                            }
+                        },
+                        {
+                            "@n": "1-8",
+                            "@tp": "sen_3",
+                            "text": "atque",
+                            "refs": {
+                                "@nrefs": "2-21"
+                            }
+                        },
+                        {
+                            "@n": "1-9",
+                            "@tp": "sen_4",
+                            "text": "prodere",
+                            "refs": {
+                                "@nrefs": "2-22 2-23"
+                            }
+                        },
+                        {
+                            "@n": "1-10",
+                            "@tp": "",
+                            "text": "ausos",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-11",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-12",
+                            "@tp": "sen_7",
+                            "text": "alios",
+                            "refs": {
+                                "@nrefs": "2-30"
+                            }
+                        },
+                        {
+                            "@n": "1-13",
+                            "@tp": "",
+                            "text": "rursus",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-14",
+                            "@tp": "",
+                            "text": "occasione",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-15",
+                            "@tp": "",
+                            "text": "hinc",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-16",
+                            "@tp": "",
+                            "text": "consumpta",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-17",
+                            "@tp": "",
+                            "text": "aut",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-18",
+                            "@tp": "",
+                            "text": "his",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-19",
+                            "@tp": "",
+                            "text": "data",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-20",
+                            "@tp": "sen_9",
+                            "text": "innumerabiles",
+                            "refs": {
+                                "@nrefs": "2-44"
+                            }
+                        },
+                        {
+                            "@n": "1-21",
+                            "@tp": "sen_10",
+                            "text": "tradidisse",
+                            "refs": {
+                                "@nrefs": "2-32 2-33"
+                            }
+                        },
+                        {
+                            "@n": "1-22",
+                            "@tp": "sen_8",
+                            "text": "mundos",
+                            "refs": {
+                                "@nrefs": "2-46"
+                            }
+                        },
+                        {
+                            "@n": "1-23",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-24",
+                            "@tp": "sen_15",
+                            "text": "ut",
+                            "refs": {
+                                "@nrefs": "2-48 2-49"
+                            }
+                        },
+                        {
+                            "@n": "1-25",
+                            "@tp": "sen_12",
+                            "text": "totidem",
+                            "refs": {
+                                "@nrefs": "2-56 2-57"
+                            }
+                        },
+                        {
+                            "@n": "1-26",
+                            "@tp": "sen_11",
+                            "text": "rerum",
+                            "refs": {
+                                "@nrefs": "2-59"
+                            }
+                        },
+                        {
+                            "@n": "1-27",
+                            "@tp": "sen_11",
+                            "text": "naturas",
+                            "refs": {
+                                "@nrefs": "2-59"
+                            }
+                        },
+                        {
+                            "@n": "1-28",
+                            "@tp": "sen_13",
+                            "text": "credi",
+                            "refs": {
+                                "@nrefs": "2-52"
+                            }
+                        },
+                        {
+                            "@n": "1-29",
+                            "@tp": "sen_14",
+                            "text": "oporteret",
+                            "refs": {
+                                "@nrefs": "2-50 2-51"
+                            }
+                        },
+                        {
+                            "@n": "1-30",
+                            "@tp": "sen_16",
+                            "text": "aut",
+                            "refs": {
+                                "@nrefs": "2-61"
+                            }
+                        },
+                        {
+                            "@n": "1-31",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-32",
+                            "@tp": "sen_17",
+                            "text": "si",
+                            "refs": {
+                                "@nrefs": "2-64"
+                            }
+                        },
+                        {
+                            "@n": "1-33",
+                            "@tp": "sen_18",
+                            "text": "una",
+                            "refs": {
+                                "@nrefs": "2-65 2-66"
+                            }
+                        },
+                        {
+                            "@n": "1-34",
+                            "@tp": "sen_19",
+                            "text": "omnes",
+                            "refs": {
+                                "@nrefs": "2-69 2-70"
+                            }
+                        },
+                        {
+                            "@n": "1-35",
+                            "@tp": "sen_20",
+                            "text": "incubaret",
+                            "refs": {
+                                "@nrefs": "2-68"
+                            }
+                        },
+                        {
+                            "@n": "1-36",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-37",
+                            "@tp": "sen_21",
+                            "text": "totidem",
+                            "refs": {
+                                "@nrefs": "2-75 2-76"
+                            }
+                        },
+                        {
+                            "@n": "1-38",
+                            "@tp": "",
+                            "text": "tamen",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-39",
+                            "@tp": "sen_22",
+                            "text": "soles",
+                            "refs": {
+                                "@nrefs": "2-77"
+                            }
+                        },
+                        {
+                            "@n": "1-40",
+                            "@tp": "sen_23",
+                            "text": "totidemque",
+                            "refs": {
+                                "@nrefs": "2-78 2-79 2-80"
+                            }
+                        },
+                        {
+                            "@n": "1-41",
+                            "@tp": "sen_24",
+                            "text": "lunas",
+                            "refs": {
+                                "@nrefs": "2-81"
+                            }
+                        },
+                        {
+                            "@n": "1-42",
+                            "@tp": "sen_25",
+                            "text": "et",
+                            "refs": {
+                                "@nrefs": "2-83"
+                            }
+                        },
+                        {
+                            "@n": "1-43",
+                            "@tp": "sen_26",
+                            "text": "cetera",
+                            "refs": {
+                                "@nrefs": "2-85 2-86 2-87"
+                            }
+                        },
+                        {
+                            "@n": "1-44",
+                            "@tp": "",
+                            "text": "etiam",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-45",
+                            "@tp": "",
+                            "text": "in",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-46",
+                            "@tp": "",
+                            "text": "uno",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-47",
+                            "@tp": "",
+                            "text": "et",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-48",
+                            "@tp": "sen_27",
+                            "text": "inmensa",
+                            "refs": {
+                                "@nrefs": "2-90"
+                            }
+                        },
+                        {
+                            "@n": "1-49",
+                            "@tp": "",
+                            "text": "et",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-50",
+                            "@tp": "",
+                            "text": "innumerabilia",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-51",
+                            "@tp": "sen_28",
+                            "text": "sidera",
+                            "refs": {
+                                "@nrefs": "2-94 2-95"
+                            }
+                        },
+                        {
+                            "@n": "1-52",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-53",
+                            "@tp": "sen_29",
+                            "text": "quasi",
+                            "refs": {
+                                "@nrefs": "2-97 2-98"
+                            }
+                        },
+                        {
+                            "@n": "1-54",
+                            "@tp": "sen_30",
+                            "text": "non",
+                            "refs": {
+                                "@nrefs": "2-103"
+                            }
+                        },
+                        {
+                            "@n": "1-55",
+                            "@tp": "sen_31",
+                            "text": "eaedem",
+                            "refs": {
+                                "@nrefs": "2-100"
+                            }
+                        },
+                        {
+                            "@n": "1-56",
+                            "@tp": "sen_32",
+                            "text": "quaestiones",
+                            "refs": {
+                                "@nrefs": "2-101 2-99"
+                            }
+                        },
+                        {
+                            "@n": "1-57",
+                            "@tp": "sen_33",
+                            "text": "semper",
+                            "refs": {
+                                "@nrefs": "2-105 2-106 2-107"
+                            }
+                        },
+                        {
+                            "@n": "1-58",
+                            "@tp": "",
+                            "text": "in",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-59",
+                            "@tp": "",
+                            "text": "termino",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-60",
+                            "@tp": "sen_34",
+                            "text": "cogitationi",
+                            "refs": {
+                                "@nrefs": "2-108 2-110"
+                            }
+                        },
+                        {
+                            "@n": "1-61",
+                            "@tp": "",
+                            "text": "sint",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-62",
+                            "@tp": "",
+                            "text": "occursurae",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-63",
+                            "@tp": "",
+                            "text": "desiderio",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-64",
+                            "@tp": "sen_35",
+                            "text": "finis",
+                            "refs": {
+                                "@nrefs": "2-121"
+                            }
+                        },
+                        {
+                            "@n": "1-65",
+                            "@tp": "",
+                            "text": "alicuius",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-66",
+                            "@tp": "sen_36",
+                            "text": "aut",
+                            "refs": {
+                                "@nrefs": "2-123"
+                            }
+                        },
+                        {
+                            "@n": "1-67",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-68",
+                            "@tp": "sen_37",
+                            "text": "si",
+                            "refs": {
+                                "@nrefs": "2-125 2-126"
+                            }
+                        },
+                        {
+                            "@n": "1-69",
+                            "@tp": "sen_38",
+                            "text": "haec",
+                            "refs": {
+                                "@nrefs": "2-127"
+                            }
+                        },
+                        {
+                            "@n": "1-70",
+                            "@tp": "sen_39",
+                            "text": "infinitas",
+                            "refs": {
+                                "@nrefs": "2-128"
+                            }
+                        },
+                        {
+                            "@n": "1-71",
+                            "@tp": "sen_40",
+                            "text": "naturae",
+                            "refs": {
+                                "@nrefs": "2-133 2-134"
+                            }
+                        },
+                        {
+                            "@n": "1-72",
+                            "@tp": "sen_41",
+                            "text": "omnium",
+                            "refs": {
+                                "@nrefs": "2-138 2-139 2-140"
+                            }
+                        },
+                        {
+                            "@n": "1-73",
+                            "@tp": "sen_42",
+                            "text": "artifici",
+                            "refs": {
+                                "@nrefs": "2-136 2-137"
+                            }
+                        },
+                        {
+                            "@n": "1-74",
+                            "@tp": "",
+                            "text": "possit",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-75",
+                            "@tp": "sen_43",
+                            "text": "adsignari",
+                            "refs": {
+                                "@nrefs": "2-132"
+                            }
+                        },
+                        {
+                            "@n": "1-76",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-77",
+                            "@tp": "sen_45",
+                            "text": "non",
+                            "refs": {
+                                "@nrefs": "2-142"
+                            }
+                        },
+                        {
+                            "@n": "1-78",
+                            "@tp": "",
+                            "text": "idem",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-79",
+                            "@tp": "",
+                            "text": "illud",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-80",
+                            "@tp": "sen_48",
+                            "text": "in",
+                            "refs": {
+                                "@nrefs": "2-147"
+                            }
+                        },
+                        {
+                            "@n": "1-81",
+                            "@tp": "sen_47",
+                            "text": "uno",
+                            "refs": {
+                                "@nrefs": "2-148 2-149"
+                            }
+                        },
+                        {
+                            "@n": "1-82",
+                            "@tp": "sen_46",
+                            "text": "facilius",
+                            "refs": {
+                                "@nrefs": "2-144 2-145"
+                            }
+                        },
+                        {
+                            "@n": "1-83",
+                            "@tp": "sen_45",
+                            "text": "sit",
+                            "refs": {
+                                "@nrefs": "2-142"
+                            }
+                        },
+                        {
+                            "@n": "1-84",
+                            "@tp": "sen_44",
+                            "text": "intellegi",
+                            "refs": {
+                                "@nrefs": "2-143 2-146"
+                            }
+                        },
+                        {
+                            "@n": "1-85",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-86",
+                            "@tp": "sen_50",
+                            "text": "tanto",
+                            "refs": {
+                                "@nrefs": "2-156 2-157"
+                            }
+                        },
+                        {
+                            "@n": "1-87",
+                            "@tp": "sen_49",
+                            "text": "praesertim",
+                            "refs": {
+                                "@nrefs": "2-152"
+                            }
+                        },
+                        {
+                            "@n": "1-88",
+                            "@tp": "",
+                            "text": "opere",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "1-89",
+                            "@tp": "",
+                            "text": ".",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@lnum": "L2",
+                    "w": [
+                        {
+                            "@n": "2-1",
+                            "@tp": "sen_1",
+                            "text": "It",
+                            "refs": {
+                                "@nrefs": "1-2"
+                            }
+                        },
+                        {
+                            "@n": "2-2",
+                            "@tp": "sen_1",
+                            "text": "is",
+                            "refs": {
+                                "@nrefs": "1-2"
+                            }
+                        },
+                        {
+                            "@n": "2-3",
+                            "@tp": "sen_0",
+                            "text": "madness",
+                            "refs": {
+                                "@nrefs": "1-1"
+                            }
+                        },
+                        {
+                            "@n": "2-4",
+                            "@tp": "sen_2",
+                            "text": "to",
+                            "refs": {
+                                "@nrefs": "1-7"
+                            }
+                        },
+                        {
+                            "@n": "2-5",
+                            "@tp": "sen_2",
+                            "text": "harass",
+                            "refs": {
+                                "@nrefs": "1-7"
+                            }
+                        },
+                        {
+                            "@n": "2-6",
+                            "@tp": "sen_6",
+                            "text": "the",
+                            "refs": {
+                                "@nrefs": "1-5"
+                            }
+                        },
+                        {
+                            "@n": "2-7",
+                            "@tp": "sen_6",
+                            "text": "mind",
+                            "refs": {
+                                "@nrefs": "1-5"
+                            }
+                        },
+                        {
+                            "@n": "2-8",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-9",
+                            "@tp": "",
+                            "text": "as",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-10",
+                            "@tp": "sen_5",
+                            "text": "some",
+                            "refs": {
+                                "@nrefs": "1-6"
+                            }
+                        },
+                        {
+                            "@n": "2-11",
+                            "@tp": "",
+                            "text": "have",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-12",
+                            "@tp": "",
+                            "text": "done",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-13",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-14",
+                            "@tp": "",
+                            "text": "with",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-15",
+                            "@tp": "",
+                            "text": "attempts",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-16",
+                            "@tp": "",
+                            "text": "to",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-17",
+                            "@tp": "",
+                            "text": "measure",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-18",
+                            "@tp": "",
+                            "text": "the",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-19",
+                            "@tp": "",
+                            "text": "world",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-20",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-21",
+                            "@tp": "sen_3",
+                            "text": "and",
+                            "refs": {
+                                "@nrefs": "1-8"
+                            }
+                        },
+                        {
+                            "@n": "2-22",
+                            "@tp": "sen_4",
+                            "text": "to",
+                            "refs": {
+                                "@nrefs": "1-9"
+                            }
+                        },
+                        {
+                            "@n": "2-23",
+                            "@tp": "sen_4",
+                            "text": "publish",
+                            "refs": {
+                                "@nrefs": "1-9"
+                            }
+                        },
+                        {
+                            "@n": "2-24",
+                            "@tp": "",
+                            "text": "these",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-25",
+                            "@tp": "",
+                            "text": "attempts",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-26",
+                            "@tp": "",
+                            "text": ";",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-27",
+                            "@tp": "",
+                            "text": "or",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-28",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-29",
+                            "@tp": "",
+                            "text": "like",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-30",
+                            "@tp": "sen_7",
+                            "text": "others",
+                            "refs": {
+                                "@nrefs": "1-12"
+                            }
+                        },
+                        {
+                            "@n": "2-31",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-32",
+                            "@tp": "sen_10",
+                            "text": "to",
+                            "refs": {
+                                "@nrefs": "1-21"
+                            }
+                        },
+                        {
+                            "@n": "2-33",
+                            "@tp": "sen_10",
+                            "text": "argue",
+                            "refs": {
+                                "@nrefs": "1-21"
+                            }
+                        },
+                        {
+                            "@n": "2-34",
+                            "@tp": "",
+                            "text": "from",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-35",
+                            "@tp": "",
+                            "text": "what",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-36",
+                            "@tp": "",
+                            "text": "they",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-37",
+                            "@tp": "",
+                            "text": "have",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-38",
+                            "@tp": "",
+                            "text": "made",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-39",
+                            "@tp": "",
+                            "text": "out",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-40",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-41",
+                            "@tp": "",
+                            "text": "that",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-42",
+                            "@tp": "",
+                            "text": "there",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-43",
+                            "@tp": "",
+                            "text": "are",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-44",
+                            "@tp": "sen_9",
+                            "text": "innumerable",
+                            "refs": {
+                                "@nrefs": "1-20"
+                            }
+                        },
+                        {
+                            "@n": "2-45",
+                            "@tp": "",
+                            "text": "other",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-46",
+                            "@tp": "sen_8",
+                            "text": "worlds",
+                            "refs": {
+                                "@nrefs": "1-22"
+                            }
+                        },
+                        {
+                            "@n": "2-47",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-48",
+                            "@tp": "sen_15",
+                            "text": "and",
+                            "refs": {
+                                "@nrefs": "1-24"
+                            }
+                        },
+                        {
+                            "@n": "2-49",
+                            "@tp": "sen_15",
+                            "text": "that",
+                            "refs": {
+                                "@nrefs": "1-24"
+                            }
+                        },
+                        {
+                            "@n": "2-50",
+                            "@tp": "sen_14",
+                            "text": "we",
+                            "refs": {
+                                "@nrefs": "1-29"
+                            }
+                        },
+                        {
+                            "@n": "2-51",
+                            "@tp": "sen_14",
+                            "text": "must",
+                            "refs": {
+                                "@nrefs": "1-29"
+                            }
+                        },
+                        {
+                            "@n": "2-52",
+                            "@tp": "sen_13",
+                            "text": "believe",
+                            "refs": {
+                                "@nrefs": "1-28"
+                            }
+                        },
+                        {
+                            "@n": "2-53",
+                            "@tp": "",
+                            "text": "there",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-54",
+                            "@tp": "",
+                            "text": "to",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-55",
+                            "@tp": "",
+                            "text": "be",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-56",
+                            "@tp": "sen_12",
+                            "text": "so",
+                            "refs": {
+                                "@nrefs": "1-25"
+                            }
+                        },
+                        {
+                            "@n": "2-57",
+                            "@tp": "sen_12",
+                            "text": "many",
+                            "refs": {
+                                "@nrefs": "1-25"
+                            }
+                        },
+                        {
+                            "@n": "2-58",
+                            "@tp": "",
+                            "text": "other",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-59",
+                            "@tp": "sen_11",
+                            "text": "natures",
+                            "refs": {
+                                "@nrefs": "1-26 1-27"
+                            }
+                        },
+                        {
+                            "@n": "2-60",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-61",
+                            "@tp": "sen_16",
+                            "text": "or",
+                            "refs": {
+                                "@nrefs": "1-30"
+                            }
+                        },
+                        {
+                            "@n": "2-62",
+                            "@tp": "",
+                            "text": "that",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-63",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-64",
+                            "@tp": "sen_17",
+                            "text": "if",
+                            "refs": {
+                                "@nrefs": "1-32"
+                            }
+                        },
+                        {
+                            "@n": "2-65",
+                            "@tp": "sen_18",
+                            "text": "only",
+                            "refs": {
+                                "@nrefs": "1-33"
+                            }
+                        },
+                        {
+                            "@n": "2-66",
+                            "@tp": "sen_18",
+                            "text": "one",
+                            "refs": {
+                                "@nrefs": "1-33"
+                            }
+                        },
+                        {
+                            "@n": "2-67",
+                            "@tp": "",
+                            "text": "nature",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-68",
+                            "@tp": "sen_20",
+                            "text": "produced",
+                            "refs": {
+                                "@nrefs": "1-35"
+                            }
+                        },
+                        {
+                            "@n": "2-69",
+                            "@tp": "sen_19",
+                            "text": "the",
+                            "refs": {
+                                "@nrefs": "1-34"
+                            }
+                        },
+                        {
+                            "@n": "2-70",
+                            "@tp": "sen_19",
+                            "text": "whole",
+                            "refs": {
+                                "@nrefs": "1-34"
+                            }
+                        },
+                        {
+                            "@n": "2-71",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-72",
+                            "@tp": "",
+                            "text": "there",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-73",
+                            "@tp": "",
+                            "text": "will",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-74",
+                            "@tp": "",
+                            "text": "be",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-75",
+                            "@tp": "sen_21",
+                            "text": "so",
+                            "refs": {
+                                "@nrefs": "1-37"
+                            }
+                        },
+                        {
+                            "@n": "2-76",
+                            "@tp": "sen_21",
+                            "text": "many",
+                            "refs": {
+                                "@nrefs": "1-37"
+                            }
+                        },
+                        {
+                            "@n": "2-77",
+                            "@tp": "sen_22",
+                            "text": "suns",
+                            "refs": {
+                                "@nrefs": "1-39"
+                            }
+                        },
+                        {
+                            "@n": "2-78",
+                            "@tp": "sen_23",
+                            "text": "and",
+                            "refs": {
+                                "@nrefs": "1-40"
+                            }
+                        },
+                        {
+                            "@n": "2-79",
+                            "@tp": "sen_23",
+                            "text": "so",
+                            "refs": {
+                                "@nrefs": "1-40"
+                            }
+                        },
+                        {
+                            "@n": "2-80",
+                            "@tp": "sen_23",
+                            "text": "many",
+                            "refs": {
+                                "@nrefs": "1-40"
+                            }
+                        },
+                        {
+                            "@n": "2-81",
+                            "@tp": "sen_24",
+                            "text": "moons",
+                            "refs": {
+                                "@nrefs": "1-41"
+                            }
+                        },
+                        {
+                            "@n": "2-82",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-83",
+                            "@tp": "sen_25",
+                            "text": "and",
+                            "refs": {
+                                "@nrefs": "1-42"
+                            }
+                        },
+                        {
+                            "@n": "2-84",
+                            "@tp": "",
+                            "text": "that",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-85",
+                            "@tp": "sen_26",
+                            "text": "each",
+                            "refs": {
+                                "@nrefs": "1-43"
+                            }
+                        },
+                        {
+                            "@n": "2-86",
+                            "@tp": "sen_26",
+                            "text": "of",
+                            "refs": {
+                                "@nrefs": "1-43"
+                            }
+                        },
+                        {
+                            "@n": "2-87",
+                            "@tp": "sen_26",
+                            "text": "them",
+                            "refs": {
+                                "@nrefs": "1-43"
+                            }
+                        },
+                        {
+                            "@n": "2-88",
+                            "@tp": "",
+                            "text": "will",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-89",
+                            "@tp": "",
+                            "text": "have",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-90",
+                            "@tp": "sen_27",
+                            "text": "immense",
+                            "refs": {
+                                "@nrefs": "1-48"
+                            }
+                        },
+                        {
+                            "@n": "2-91",
+                            "@tp": "",
+                            "text": "trains",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-92",
+                            "@tp": "",
+                            "text": "of",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-93",
+                            "@tp": "",
+                            "text": "other",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-94",
+                            "@tp": "sen_28",
+                            "text": "heavenly",
+                            "refs": {
+                                "@nrefs": "1-51"
+                            }
+                        },
+                        {
+                            "@n": "2-95",
+                            "@tp": "sen_28",
+                            "text": "bodies",
+                            "refs": {
+                                "@nrefs": "1-51"
+                            }
+                        },
+                        {
+                            "@n": "2-96",
+                            "@tp": "",
+                            "text": ".",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-97",
+                            "@tp": "sen_29",
+                            "text": "As",
+                            "refs": {
+                                "@nrefs": "1-53"
+                            }
+                        },
+                        {
+                            "@n": "2-98",
+                            "@tp": "sen_29",
+                            "text": "if",
+                            "refs": {
+                                "@nrefs": "1-53"
+                            }
+                        },
+                        {
+                            "@n": "2-99",
+                            "@tp": "sen_32",
+                            "text": "the",
+                            "refs": {
+                                "@nrefs": "1-56"
+                            }
+                        },
+                        {
+                            "@n": "2-100",
+                            "@tp": "sen_31",
+                            "text": "same",
+                            "refs": {
+                                "@nrefs": "1-55"
+                            }
+                        },
+                        {
+                            "@n": "2-101",
+                            "@tp": "sen_32",
+                            "text": "question",
+                            "refs": {
+                                "@nrefs": "1-56"
+                            }
+                        },
+                        {
+                            "@n": "2-102",
+                            "@tp": "",
+                            "text": "would",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-103",
+                            "@tp": "sen_30",
+                            "text": "not",
+                            "refs": {
+                                "@nrefs": "1-54"
+                            }
+                        },
+                        {
+                            "@n": "2-104",
+                            "@tp": "",
+                            "text": "recur",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-105",
+                            "@tp": "sen_33",
+                            "text": "at",
+                            "refs": {
+                                "@nrefs": "1-57"
+                            }
+                        },
+                        {
+                            "@n": "2-106",
+                            "@tp": "sen_33",
+                            "text": "every",
+                            "refs": {
+                                "@nrefs": "1-57"
+                            }
+                        },
+                        {
+                            "@n": "2-107",
+                            "@tp": "sen_33",
+                            "text": "step",
+                            "refs": {
+                                "@nrefs": "1-57"
+                            }
+                        },
+                        {
+                            "@n": "2-108",
+                            "@tp": "sen_34",
+                            "text": "of",
+                            "refs": {
+                                "@nrefs": "1-60"
+                            }
+                        },
+                        {
+                            "@n": "2-109",
+                            "@tp": "",
+                            "text": "our",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-110",
+                            "@tp": "sen_34",
+                            "text": "inquiry",
+                            "refs": {
+                                "@nrefs": "1-60"
+                            }
+                        },
+                        {
+                            "@n": "2-111",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-112",
+                            "@tp": "",
+                            "text": "anxious",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-113",
+                            "@tp": "",
+                            "text": "as",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-114",
+                            "@tp": "",
+                            "text": "we",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-115",
+                            "@tp": "",
+                            "text": "must",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-116",
+                            "@tp": "",
+                            "text": "be",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-117",
+                            "@tp": "",
+                            "text": "to",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-118",
+                            "@tp": "",
+                            "text": "arrive",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-119",
+                            "@tp": "",
+                            "text": "at",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-120",
+                            "@tp": "",
+                            "text": "some",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-121",
+                            "@tp": "sen_35",
+                            "text": "termination",
+                            "refs": {
+                                "@nrefs": "1-64"
+                            }
+                        },
+                        {
+                            "@n": "2-122",
+                            "@tp": "",
+                            "text": ";",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-123",
+                            "@tp": "sen_36",
+                            "text": "or",
+                            "refs": {
+                                "@nrefs": "1-66"
+                            }
+                        },
+                        {
+                            "@n": "2-124",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-125",
+                            "@tp": "sen_37",
+                            "text": "as",
+                            "refs": {
+                                "@nrefs": "1-68"
+                            }
+                        },
+                        {
+                            "@n": "2-126",
+                            "@tp": "sen_37",
+                            "text": "if",
+                            "refs": {
+                                "@nrefs": "1-68"
+                            }
+                        },
+                        {
+                            "@n": "2-127",
+                            "@tp": "sen_38",
+                            "text": "this",
+                            "refs": {
+                                "@nrefs": "1-69"
+                            }
+                        },
+                        {
+                            "@n": "2-128",
+                            "@tp": "sen_39",
+                            "text": "infinity",
+                            "refs": {
+                                "@nrefs": "1-70"
+                            }
+                        },
+                        {
+                            "@n": "2-129",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-130",
+                            "@tp": "",
+                            "text": "which",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-131",
+                            "@tp": "",
+                            "text": "we",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-132",
+                            "@tp": "sen_43",
+                            "text": "ascribe",
+                            "refs": {
+                                "@nrefs": "1-75"
+                            }
+                        },
+                        {
+                            "@n": "2-133",
+                            "@tp": "sen_40",
+                            "text": "to",
+                            "refs": {
+                                "@nrefs": "1-71"
+                            }
+                        },
+                        {
+                            "@n": "2-134",
+                            "@tp": "sen_40",
+                            "text": "nature",
+                            "refs": {
+                                "@nrefs": "1-71"
+                            }
+                        },
+                        {
+                            "@n": "2-135",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-136",
+                            "@tp": "sen_42",
+                            "text": "the",
+                            "refs": {
+                                "@nrefs": "1-73"
+                            }
+                        },
+                        {
+                            "@n": "2-137",
+                            "@tp": "sen_42",
+                            "text": "former",
+                            "refs": {
+                                "@nrefs": "1-73"
+                            }
+                        },
+                        {
+                            "@n": "2-138",
+                            "@tp": "sen_41",
+                            "text": "of",
+                            "refs": {
+                                "@nrefs": "1-72"
+                            }
+                        },
+                        {
+                            "@n": "2-139",
+                            "@tp": "sen_41",
+                            "text": "all",
+                            "refs": {
+                                "@nrefs": "1-72"
+                            }
+                        },
+                        {
+                            "@n": "2-140",
+                            "@tp": "sen_41",
+                            "text": "things",
+                            "refs": {
+                                "@nrefs": "1-72"
+                            }
+                        },
+                        {
+                            "@n": "2-141",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-142",
+                            "@tp": "sen_45",
+                            "text": "cannot",
+                            "refs": {
+                                "@nrefs": "1-77 1-83"
+                            }
+                        },
+                        {
+                            "@n": "2-143",
+                            "@tp": "sen_44",
+                            "text": "be",
+                            "refs": {
+                                "@nrefs": "1-84"
+                            }
+                        },
+                        {
+                            "@n": "2-144",
+                            "@tp": "sen_46",
+                            "text": "more",
+                            "refs": {
+                                "@nrefs": "1-82"
+                            }
+                        },
+                        {
+                            "@n": "2-145",
+                            "@tp": "sen_46",
+                            "text": "easily",
+                            "refs": {
+                                "@nrefs": "1-82"
+                            }
+                        },
+                        {
+                            "@n": "2-146",
+                            "@tp": "sen_44",
+                            "text": "comprehended",
+                            "refs": {
+                                "@nrefs": "1-84"
+                            }
+                        },
+                        {
+                            "@n": "2-147",
+                            "@tp": "sen_48",
+                            "text": "by",
+                            "refs": {
+                                "@nrefs": "1-80"
+                            }
+                        },
+                        {
+                            "@n": "2-148",
+                            "@tp": "sen_47",
+                            "text": "one",
+                            "refs": {
+                                "@nrefs": "1-81"
+                            }
+                        },
+                        {
+                            "@n": "2-149",
+                            "@tp": "sen_47",
+                            "text": "single",
+                            "refs": {
+                                "@nrefs": "1-81"
+                            }
+                        },
+                        {
+                            "@n": "2-150",
+                            "@tp": "",
+                            "text": "formation",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-151",
+                            "@tp": "",
+                            "text": ",",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-152",
+                            "@tp": "sen_49",
+                            "text": "especially",
+                            "refs": {
+                                "@nrefs": "1-87"
+                            }
+                        },
+                        {
+                            "@n": "2-153",
+                            "@tp": "",
+                            "text": "when",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-154",
+                            "@tp": "",
+                            "text": "that",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-155",
+                            "@tp": "",
+                            "text": "is",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        },
+                        {
+                            "@n": "2-156",
+                            "@tp": "sen_50",
+                            "text": "so",
+                            "refs": {
+                                "@nrefs": "1-86"
+                            }
+                        },
+                        {
+                            "@n": "2-157",
+                            "@tp": "sen_50",
+                            "text": "extensive",
+                            "refs": {
+                                "@nrefs": "1-86"
+                            }
+                        },
+                        {
+                            "@n": "2-158",
+                            "@tp": "",
+                            "text": ".",
+                            "refs": {
+                                "@nrefs": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

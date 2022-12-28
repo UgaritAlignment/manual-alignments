@@ -1,0 +1,85 @@
+{
+    "aligned-text": {
+        "language": [
+            {
+                "@lnum": "L1",
+                "@xml:lang": "lat"
+            },
+            {
+                "@lnum": "L2",
+                "@xml:lang": "eng"
+            }
+        ],
+        "sentence": {
+            "@n": "1",
+            "wds": [
+                {
+                    "@lnum": "L1",
+                    "w": [
+                        {
+                            "@n": "1-1",
+                            "@tp": "sen_1",
+                            "text": "Samum",
+                            "refs": {
+                                "@nrefs": "1-3"
+                            }
+                        },
+                        {
+                            "@n": "1-2",
+                            "@tp": "sen_2",
+                            "text": "cepit",
+                            "refs": {
+                                "@nrefs": "1-1 1-2"
+                            }
+                        },
+                        {
+                            "@n": "1-3",
+                            "@tp": "sen_3",
+                            "text": ":",
+                            "refs": {
+                                "@nrefs": "1-4"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@lnum": "L2",
+                    "w": [
+                        {
+                            "@n": "1-1",
+                            "@tp": "sen_2",
+                            "text": "He",
+                            "refs": {
+                                "@nrefs": "1-2"
+                            }
+                        },
+                        {
+                            "@n": "1-2",
+                            "@tp": "sen_2",
+                            "text": "conquered",
+                            "refs": {
+                                "@nrefs": "1-2"
+                            }
+                        },
+                        {
+                            "@n": "1-3",
+                            "@tp": "sen_1",
+                            "text": "Samos",
+                            "refs": {
+                                "@nrefs": "1-1"
+                            }
+                        },
+                        {
+                            "@n": "1-4",
+                            "@tp": "sen_3",
+                            "text": ".",
+                            "refs": {
+                                "@nrefs": "1-3"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
