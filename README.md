@@ -1,4 +1,4 @@
-# manual-alignments
+# Manual Alignments
 
 If you use these data, please cite our paper [**Translation Alignment with Ugarit**](https://www.mdpi.com/2078-2489/13/2/65):
 
