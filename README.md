@@ -12,4 +12,5 @@ If you use these data, please cite our paper [**Translation Alignment with Ugari
   pages={65},
   year={2022},
   publisher={MDPI}
-}```
+}
+```
