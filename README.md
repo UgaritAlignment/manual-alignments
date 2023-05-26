@@ -1,16 +1,7 @@
-# Manual Alignments
+# Materials for "To say almost the same thing?" (DSH 2023)
 
-If you use these data, please cite our paper [**Translation Alignment with Ugarit**](https://www.mdpi.com/2078-2489/13/2/65):
+This repository contains the materials used for the article "To say almost the same thing? A study on cross-linguistic variation in ancient texts and their translations", published on Digital Scholarship in the Humanities, 2023. DOI: https://doi.org/10.1093/llc/fqac086. 
 
-```
-@article{yousef2022translation,
-  title={Translation alignment with ugarit},
-  author={Yousef, Tariq and Palladino, Chiara and Shamsian, Farnoosh and Foradi, Maryam},
-  journal={Information},
-  volume={13},
-  number={2},
-  pages={65},
-  year={2022},
-  publisher={MDPI}
-}
-```
+To use this material, please cite our article as follows: 
+Chiara Palladino , Tariq Yousef, To say almost the same thing? A study on cross-linguistic variation in ancient texts and their translations, Digital Scholarship in the Humanities, 2023;, fqac086, https://doi.org/10.1093/llc/fqac086
+
